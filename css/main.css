@@ -1035,6 +1035,7 @@ header {
 	width: 100%;
 	min-height: 66px;
 	z-index: 600;
+	opacity: 0.5;
 }
 header .row {
 	position: relative;
@@ -1199,7 +1200,7 @@ header .logo a {
 	background: #000000;
 	padding: 24px 30px 42px;
 	margin: 0;
-	width: 12%;
+	width: 40%;
 	height: auto;
 	clear: both;
 	display: none;
